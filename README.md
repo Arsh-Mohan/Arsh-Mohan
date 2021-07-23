@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-<!--
-**Arsh-Mohan/Arsh-Mohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a ENI ug at BITS Pilani, Pilani campus.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... You can get one such summary too -- just create a GitHub repo with the name exactly matching your username, and anything you write in the repo's README will show up here.
+- 🔭 I’m currently working on ...Robot Automation
+- 🌱 I’m currently learning ...Ros,Gazebo
+- 👯 I’m looking to collaborate on ...projects
+- 🤔 I’m looking for help with ...Ros and Gazebo
+- 😄 Pronouns: ...he/him
+- ⚡ Fun fact: ...You can get one such summary too -- just create a GitHub repo with the name exactly matching your username, and anything you write in the repo's README will show up here.
 -->
